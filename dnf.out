@@ -1,0 +1,10 @@
+Иденти | Командная строка                                                                                     | Дата и время     | Действия       | Изменен
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+     8 | install nginx libcap-ng-utils-0.8.3-3.red80.                                                         | 2026-09-29 21:33 | Install        |    5   
+     7 | update                                                                                               | 2026-09-29 21:28 | I, O, U        |   57 EE
+     6 |                                                                                                      | 2026-09-25 15:20 | Install        |    1   
+     5 | update                                                                                               | 2026-09-06 11:47 | I, O           |   18 EE
+     4 |                                                                                                      | 2026-09-06 11:36 | I, U           |  162  <
+     3 | autoremove -y --setopt=metadata_expire=-1                                                            | 2026-09-06 00:02 | Removed        |    1 ><
+     2 | remove -y --setopt=metadata_expire=-1 virtualbox-guest-additions xorg-x11-drv-vbox VirtualBox-kmod s | 2026-09-05 23:56 | Removed        |    4 >E
+     1 |                                                                                                      | 2026-09-05 23:27 | Install        | 1848 EE

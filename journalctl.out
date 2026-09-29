@@ -1,0 +1,12 @@
+сен 29 21:47:21 localhost.localdomain systemd[1]: Starting nginx.service - The nginx HTTP and reverse proxy server...
+сен 29 21:47:25 localhost.localdomain nginx[880]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+сен 29 21:47:25 localhost.localdomain nginx[880]: nginx: configuration file /etc/nginx/nginx.conf test is successful
+сен 29 21:47:27 localhost.localdomain systemd[1]: Started nginx.service - The nginx HTTP and reverse proxy server.
+сен 29 22:37:42 localhost.localdomain systemd[1]: Stopping nginx.service - The nginx HTTP and reverse proxy server...
+сен 29 22:37:42 localhost.localdomain systemd[1]: nginx.service: Deactivated successfully.
+сен 29 22:37:42 localhost.localdomain systemd[1]: Stopped nginx.service - The nginx HTTP and reverse proxy server.
+сен 29 22:37:42 localhost.localdomain systemd[1]: nginx.service: Consumed 1.003s CPU time.
+сен 29 22:37:42 localhost.localdomain systemd[1]: Starting nginx.service - The nginx HTTP and reverse proxy server...
+сен 29 22:37:43 localhost.localdomain nginx[3088]: nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+сен 29 22:37:43 localhost.localdomain nginx[3088]: nginx: configuration file /etc/nginx/nginx.conf test is successful
+сен 29 22:37:43 localhost.localdomain systemd[1]: Started nginx.service - The nginx HTTP and reverse proxy server.
